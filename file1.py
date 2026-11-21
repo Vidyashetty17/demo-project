@@ -7,3 +7,5 @@ def sub(a,b):
         return "b should be greater than a"  
     else:
         return a-b
+def multiply (a,b):
+    return a*b
