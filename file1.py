@@ -1,5 +1,5 @@
 def add (a,b):
-    return a+b
+    return "the sum of a and b "
 def sub(a,b):
     if b ==0:
         return "Error: Division by zero"      
